@@ -9,3 +9,12 @@ header.masthead {
     background-attachment: scroll;
     background-size: cover;
 }
+a.navbar-brand {
+    text-decoration: none;
+    outline: none; 
+}
+#main-logo {
+    width: 250px;
+    top: -11px;
+    position: absolute;
+}
